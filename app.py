@@ -73,7 +73,7 @@ def show_home():
     """Displays the home page with project overview."""
     
     st.title("🚗 License Plate Detection System")
-    st.markdown("### AI-Powered License Plate Detection using Machine Learning & Deep Learning")
+    st.markdown("### License Plate Detection using Machine Learning & Deep Learning")
     
     st.markdown("---")
     
