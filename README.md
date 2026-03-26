@@ -1,6 +1,6 @@
 # 🚗 License Plate Detection System
 
-An AI-powered License Plate Detection system using **Machine Learning (Ensemble)** and **Deep Learning (YOLOv8)** with a **Streamlit** web application.
+License Plate Detection system using **Machine Learning (Ensemble)** and **Deep Learning (YOLOv8)** with a **Streamlit** web application.
 
 ---
 
